@@ -17,7 +17,6 @@ Jesús Prieto López -
 Ignacio Romero Cabrerizo -
 [openGestion](https://github.com/nachobit/IV_PR_OpenOrder) 10:30
 
-
 Rubén Martín Hidalgo -
 [Pluco-DB](https://github.com/romilgildo/IV-PLUCO-RMH) 10:45
 
